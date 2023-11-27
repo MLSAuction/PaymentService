@@ -1,6 +1,6 @@
-namespace ServiceTemplateTests
+namespace PaymentServiceTests
 {
-    public class ServiceTests
+    public class PaymentTests
     {
         [SetUp]
         public void Setup()

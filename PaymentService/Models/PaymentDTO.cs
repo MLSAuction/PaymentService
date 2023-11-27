@@ -1,6 +1,6 @@
-﻿namespace ServiceTemplate.Models
+﻿namespace PaymentService.Models
 {
-    public class ExampleDTO
+    public class PaymentDTO
     {
         public int Id { get; set; }
         public DateTime Time { get; set; }
